@@ -4,10 +4,10 @@
   <a href="https://blacket.org">
     <img src="https://beta.blacket.org/images/blacketImage.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Blacket</h3>
+  <h3 align="center">Blooks SVR</h3>
 
   <p align="center">
-    The first ever open-source Blooket private server made entirely from PHP. 
+    A private server made using Blacket. 
     <br />
     <a href="https://github.com/XOTlC/Blacket/wiki"><strong>Get Help</strong></a>
     <br />
